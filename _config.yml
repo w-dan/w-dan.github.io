@@ -21,10 +21,10 @@ repository               : "w-dan/w-dan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Daniel García-Algora"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "👨🏻‍🎓 PhD student \n🐧 Linux enjoyer \n🤖 Love ML, DL and statistics \n 🔮Currently working on Adversarial Machine Learning"
+  bio              : "👨🏻‍🎓 PhD student       🐧 Linux enjoyer       🤖 Love ML, DL and statistics       🔮 Currently working on Adversarial Machine Learning"
   location         : "Madrid, Spain"
   employer         : "Universidad Politécnica de Madrid"
   uri              : # URL
