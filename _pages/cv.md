@@ -11,54 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science for Smart Cities**, Universidad Politécnica de Madrid (in progress)
+* **Master's in Machine Learning and Big Data**, Universidad Politécnica de Madrid, 2024  
+* **Postgraduate summer school in Cybersecurity**, Universidad Politécnica de Madrid, 2024  
+* **Bachelor's in Information Systems Engineering**, Universidad Politécnica de Madrid, 2023  
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **March 2024 – Present**: Researcher  
+  * Universidad Politécnica de Madrid, Department of Computer Systems  
+  * Responsibilities: Working on the project "Improving Malware Attribution Using Advanced Machine Learning Techniques," including data collection and analysis to enhance malware source identification and attribution.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **October 2023 – February 2024**: AI Development Lead  
+  * Concrete Watcher SL  
+  * Responsibilities: Developed deep learning systems for video processing in the construction sector and managed server infrastructure.  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **April 2022 – July 2022**: Research Intern  
+  * Universidad Politécnica de Madrid  
+  * Responsibilities: Developed web tools and identified vulnerabilities in systems.  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **February 2024**: Data Science Course 2024  
+  * Organizer: Core Dumped UPM  
+  * Hours: 40  
+
+* **February 2023**: Data Science Course 2023  
+  * Organizer: Core Dumped UPM  
+  * Hours: 40  
+
+Scientific Activities
 ======
-* Currently signed in to 43 different slack teams
+* **June 2024**: Case Study: Reinforcement Learning in StarCraft II  
+  * Presented at the Spanish Video Game Congress (A Coruña, Spain)  
+  * Authors: Álvaro Tena Tamayo, David García Guillén, Daniel García Algora, Alberto Díaz Álvarez  
+
+Honors and Awards
+======
+* **June 2024**: Best New Article Award  
+  * Awarding Entity: Spanish Society for Video Game Sciences  
+
+
+Memberships and Organizations
+======
+* **Core Dumped**:  
+  * Affiliated Institution: Universidad Politécnica de Madrid  
+  * Role: Member  
+  * City: Madrid, Spain  

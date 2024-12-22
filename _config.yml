@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dani's Homepage"
+title                    : "Daniel García-Algora"
 title_separator          : "-"
 name                     : &name "Daniel García-Algora"
 description              : &description "personal description"
