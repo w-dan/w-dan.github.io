@@ -50,7 +50,7 @@ Scientific Activities
 
 Honors and Awards
 ======
-* **June 2024**: Best New Article Award  
+* **June 2024**: Best Student Paper Award  
   * Awarding Entity: Spanish Society for Video Game Sciences  
 
 
